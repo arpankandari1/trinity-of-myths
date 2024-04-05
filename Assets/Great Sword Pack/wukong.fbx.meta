@@ -1,0 +1,1132 @@
+fileFormatVersion: 2
+guid: d99ab6eac8beba148af163e4f81e3dd3
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: wukong(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Light
+      parentName: wukong(Clone)
+      position: {x: -4.0762453, y: 5.903862, z: -1.005454}
+      rotation: {x: 0.52327543, y: -0.34203392, z: 0.72694236, w: 0.28416622}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Camera
+      parentName: wukong(Clone)
+      position: {x: -7.3588915, y: 4.958309, z: 6.925791}
+      rotation: {x: 0.09062847, y: 0.89379627, z: -0.20997298, w: 0.3857799}
+      scale: {x: 100, y: 100.00001, z: 99.99999}
+    - name: Mnupao_10004_Mnupao_M_10004
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.001
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.002
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.003
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.004
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.005
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.006
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.007
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.008
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.009
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.010
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.011
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.012
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.013
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.014
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.015
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.016
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.017
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.018
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.019
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.020
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.021
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.022
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.023
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.024
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.025
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.026
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.027
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.028
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.029
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.030
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.031
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.032
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.033
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.034
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.035
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.036
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.037
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.038
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.039
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.040
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.041
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.042
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.043
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.044
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.045
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.046
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.047
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.048
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.049
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.050
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.051
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.052
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.053
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.054
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.055
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.056
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.057
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.058
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.059
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.060
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.061
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.062
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.063
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.064
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.065
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.066
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.067
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.068
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.069
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.070
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.071
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.072
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.073
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.074
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.075
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.076
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.077
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.078
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.079
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.080
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.081
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.082
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.083
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.084
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.085
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.086
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.087
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.088
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.089
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.090
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.091
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.092
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.093
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.094
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.095
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.096
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.097
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.098
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.099
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.100
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.101
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.102
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.103
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.104
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.105
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.106
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.107
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.108
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.109
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.110
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.111
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.112
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.113
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.114
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.115
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.116
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.117
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.118
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.119
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.120
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.121
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.122
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.123
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.124
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.125
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.126
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.127
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.128
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.129
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.130
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.131
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.132
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.133
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.140
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.141
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.142
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.143
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.144
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.145
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.146
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.147
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.148
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.149
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.150
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.151
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.152
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.153
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.154
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.155
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.156
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.157
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.158
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.159
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.160
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.161
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.162
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.163
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.164
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.165
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.166
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.167
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.168
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.169
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.170
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.171
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.172
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.173
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Mnupao_10004_Mnupao_M_10004.174
+      parentName: wukong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.54439265, y: -0.4512612, z: -0.4512613, w: 0.5443925}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: mixamorig:Hips
+      parentName: wukong(Clone)
+      position: {x: -0.00010285933, y: 1.6292994, z: 0.01679937}
+      rotation: {x: 0.000085299704, y: -0.0000012243826, z: 0.00041060793, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.26557156, y: -0.11841217, z: -0.08100601}
+      rotation: {x: -0.0010583263, y: 0.039798018, z: 0.9980898, w: 0.04724253}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: 7.263633e-11, y: 0.6948597, z: -9.398424e-10}
+      rotation: {x: -0.06902995, y: -0.003948427, z: 0.09857843, w: 0.99272436}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: 0.000000005908196, y: 0.6848344, z: 0.000000002050024}
+      rotation: {x: 0.47812703, y: -0.03079679, z: 0.059564974, w: 0.8757272}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: -8.8398966e-10, y: 0.24137355, z: 0.0000000068525234}
+      rotation: {x: 0.28859612, y: -0.1053618, z: 0.031970344, w: 0.95109886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: 6.1965416e-10, y: 0.09928051, z: 1.6419887e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.26557156, y: -0.11841217, z: 0.029332971}
+      rotation: {x: -0.0024571975, y: -0.02305249, z: 0.9986524, w: -0.046432395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: 2.2860824e-11, y: 0.69504863, z: 0.0000000015825452}
+      rotation: {x: -0.023098096, y: 0.006223682, z: -0.09873464, w: 0.99482626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: -0.0000000049319837, y: 0.68423986, z: 0.0000000010035639}
+      rotation: {x: 0.5249823, y: -0.0044390676, z: -0.042243898, w: 0.85005254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: -2.5970415e-10, y: 0.26476732, z: 0.0000000032473937}
+      rotation: {x: 0.26077247, y: 0.106056154, z: -0.028835224, w: 0.95912373}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: 0.0000000011492067, y: 0.1101611, z: -4.535347e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.20981735, z: -0.012299185}
+      rotation: {x: -0.029356847, y: 0.00001324332, z: -0.00041039614, w: 0.99956894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.24520704, z: -1.2748026e-10}
+      rotation: {x: 5.595674e-26, y: -8.247645e-14, z: 6.7845724e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.2802367, z: 4.1074993e-10}
+      rotation: {x: 0, y: -0, z: -1.3410635e-28, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.08682868, y: 0.21249275, z: 0.019623952}
+      rotation: {x: 0.64080834, y: -0.37577736, z: 0.49772072, w: 0.44769433}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -9.1291813e-10, y: 0.2691321, z: 0.0000000054917484}
+      rotation: {x: -0.18379699, y: -0.046099883, z: 0.028150138, w: 0.981479}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -0.0000000026016778, y: 0.5450044, z: -0.0000000066971575}
+      rotation: {x: 0.0000003334491, y: 0.0014312378, z: 0.000000083378175, w: 0.999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: -0.0000000017642723, y: 0.3974601, z: -0.000000008920912}
+      rotation: {x: 0.0000003736533, y: -0.012696517, z: -0.00000035573916, w: 0.9999194}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: 2.3146254e-10, y: 0.029736063, z: 8.572314e-10}
+      rotation: {x: -0.000000065483725, y: 0.4523979, z: -0.000000012530269, w: 0.8918162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: 0.0000000015082181, y: 0.063950084, z: 0.0000000010011514}
+      rotation: {x: -0.08054036, y: 0.00000009138744, z: -0.1000991, w: 0.9917124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: -0.021059815, y: 0.10257317, z: 0.016944667}
+      rotation: {x: 0.052710127, y: 0.012603524, z: -0.010782328, w: 0.9984721}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: -0.01582018, y: 0.069328845, z: 0.0037019365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.08682868, y: 0.2154894, z: -0.031497147}
+      rotation: {x: -0.46965498, y: -0.44925347, z: 0.65846604, w: -0.3794971}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: 0.0000000012677875, y: 0.2691321, z: 0.000000002972455}
+      rotation: {x: -0.17717002, y: -0.04571062, z: 0.05789476, w: 0.98141205}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: 0.000000006654732, y: 0.5449107, z: 0.000000014924783}
+      rotation: {x: 0.000000208236, y: 0.0021453893, z: 0.00000038345738, w: 0.99999774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -0.0000000034265388, y: 0.3756682, z: -0.000000008332384}
+      rotation: {x: 0.00000017095286, y: -0.00031598718, z: -0.000000033257013, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: 2.276399e-10, y: 0.07904292, z: 9.3084734e-10}
+      rotation: {x: -0.000000028541162, y: -0.17231911, z: 0.0000000305196, w: 0.9850412}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: 0.0000000021012259, y: 0.06397232, z: 0.0000000023382556}
+      rotation: {x: -0.00789703, y: -0.000000010695044, z: 0.058498092, w: 0.9982563}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: 0.011918913, y: 0.10134154, z: 0.0016092054}
+      rotation: {x: -0.07884792, y: 0.008695804, z: 0.03638133, w: 0.99618465}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: 0.010902129, y: 0.056458153, z: 0.010132539}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.3152662, z: 0.000000003286574}
+      rotation: {x: 0.02927159, y: 3.5959066e-14, z: 2.2852428e-13, w: 0.9995715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.21688354, z: 0.03489127}
+      rotation: {x: 0, y: 0, z: 3.7028072e-36, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.21923614, z: 0.035269756}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
